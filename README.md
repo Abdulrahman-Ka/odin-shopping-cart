@@ -47,8 +47,6 @@ npm install
 To start the development server:
 
 ```bash
-Copy
-Edit
 npm run dev    # For Vite
 ```
 
@@ -72,3 +70,5 @@ Supports component/unit test using:
 - Vitest
 
 ---
+
+Developed by Abdulrahman-Ka(https://github.com/Abdulrahman-Ka/)
