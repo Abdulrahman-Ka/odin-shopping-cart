@@ -3,21 +3,13 @@
 A responsive mock e-commerce cart built with React and Vite for [The Odin Project](https://www.theodinproject.com/) curriculum.  
 Features product listings, dynamic cart updates, persistent state, and smooth navigation — all powered by modern React tooling.
 
-![App Preview](src/assets/screenshot.gif) <!-- Replace with actual screenshot or demo gif -->
+![App Preview](src/assets/screenshot.png) <!-- Replace with actual screenshot or demo gif -->
 
 ---
 
 ## 🔗 Live Demo
 
 👉 [View Live](https://odin-shopping-cart-95p.pages.dev/)
-
----
-
-## 📸 Preview
-
-<!-- Replace with your own image or GIF -->
-
-![Demo](./demo.gif)
 
 ---
 
